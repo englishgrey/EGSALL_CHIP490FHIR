@@ -3,7 +3,7 @@ This is a repository for the coursework and assignments assocaitaed with the CHI
 
 
 
-# FIHR Workshop Intro Blurb
+# CHIP 490 FIHR Workshop Intro Blurb
 
 My Name is English Sall and I am currently pursuing my Masters in Biomedical and Health Informatics in the CHIP program. I have a PhD in Industrial and Organizational Psychology from NCSU and have spent most of my career in the global development space.
 
