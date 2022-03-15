@@ -3,7 +3,7 @@ This is a repository for the coursework and assignments assocaitaed with the CHI
 
 
 
-<h> FIHR Workshop Intro Blurb </h> 
+# FIHR Workshop Intro Blurb
 
 My Name is English Sall and I am currently pursuing my Masters in Biomedical and Health Informatics in the CHIP program. I have a PhD in Industrial and Organizational Psychology from NCSU and have spent most of my career in the global development space.
 I am the mom of two boys (4 and 7) and currently live in Pittsboro NC with my family where we have a farm with chickens and alpacas. 
